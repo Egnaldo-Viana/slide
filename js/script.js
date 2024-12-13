@@ -7,3 +7,4 @@ slide.init();
 console.log(slide);
 
 slide.changedSlide(3);
+slide.activePrevSlide();
